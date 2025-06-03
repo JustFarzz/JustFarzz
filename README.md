@@ -84,9 +84,6 @@ const developer = {
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustFarzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0" height="192px"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustFarzz&theme=tokyonight&hide_border=true&background=1e3a8a&stroke=0000&ring=60a5fa&fire=93c5fd&currStreakLabel=93c5fd&sideNums=e2e8f0&dates=e2e8f0" alt="GitHub Streak"/>
-</div>
 
 ---
 
