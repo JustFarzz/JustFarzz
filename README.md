@@ -1,5 +1,5 @@
-<div style="background: linear-gradient(135deg, #1a237e 0%, #0d47a1    100%); padding: 20px; border-radius: 15px;">
-<h1 style="color: white;" align="center">JustFarzz</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:0d47a1&height=200&section=header&text=JustFarzz&fontSize=80&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 ---
@@ -14,8 +14,8 @@
 
 ---
 
-<div style="background: linear-gradient(135deg, #1a237e 0%, #0d47a1    100%); padding: 1px; border-radius: 15px; margin-bottom: 15px;">
-<h4 style="color: white;" align="center">❗About Me</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/❗%20About%20Me-1a237e?style=for-the-badge&logoColor=white&labelColor=0d47a1&logo=github&logoWidth=20" height="50" />
 </div>
 
 ```javascript
@@ -46,8 +46,8 @@ const developer = {
 
 ---
 
-<div style="background: linear-gradient(135deg, #1a237e 0%, #0d47a1    100%); padding: 1px; border-radius: 15px; margin-bottom: 15px;">
-<h4 style="color: white;" align="center">🛠️ Tech Stack & Tools</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/🛠️%20Tech%20Stack%20&%20Tools-1a237e?style=for-the-badge&logoColor=white&labelColor=0d47a1&logo=tools&logoWidth=20" height="50" />
 </div>
 
 <div align="center">
@@ -75,12 +75,13 @@ const developer = {
 
 ---
 
-<div style="background: linear-gradient(135deg, #1a237e 0%, #0d47a1    100%); padding: 1px; border-radius: 15px; margin-bottom: 15px;">
-<h4 style="color: white;" align="center">📊 Github Stats</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/📊%20Github%20Stats-1a237e?style=for-the-badge&logoColor=white&labelColor=0d47a1&logo=github&logoWidth=20" height="50" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JustFarzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e3a8a&title_color=60a5fa&icon_color=93c5fd&text_color=e2e8f0" height="192px"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustFarzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e3a8a&title_color=60a5fa&text_color=e2e8f0" height="192px"/>
 </div>
 <div align="center">
@@ -89,8 +90,8 @@ const developer = {
 
 ---
 
-<div style="background: linear-gradient(135deg, #1a237e 0%, #0d47a1    100%); padding: 1px; border-radius: 15px; margin-bottom: 15px;">
-<h4 style="color: white;" align="center">🏆 Github Tropies</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆%20Github%20Trophies-1a237e?style=for-the-badge&logoColor=white&labelColor=0d47a1&logo=trophy&logoWidth=20" height="50" />
 </div>
 
 <div align="center">
@@ -99,8 +100,8 @@ const developer = {
 
 ---
 
-<div style="background: linear-gradient(135deg, #1a237e 0%, #0d47a1    100%); padding: 1px; border-radius: 15px; margin-bottom: 15px;">
-<h4 style="color: white;" align="center">📈 Contribution Graph</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/📈%20Contribution%20Graph-1a237e?style=for-the-badge&logoColor=white&labelColor=0d47a1&logo=graph&logoWidth=20" height="50" />
 </div>
 
 <div align="center">
@@ -109,13 +110,13 @@ const developer = {
 
 ---
 
-<div style="background: linear-gradient(135deg, #1a237e 0%, #0d47a1    100%); padding: 1px; border-radius: 15px; margin-bottom: 15px;">
-<h4 style="color: white;" align="center">🌐 Make Colaboration With Me?</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/🌐%20Make%20Collaboration%20With%20Me-1a237e?style=for-the-badge&logoColor=white&labelColor=0d47a1&logo=github&logoWidth=20" height="50" />
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/faris-firmansyah-justfarzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faris-firmansyah-justfarzz)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faris.frm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justfarzzdev@gmail.com)
 
@@ -123,6 +124,9 @@ const developer = {
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:0d47a1&height=120&section=footer&animation=fadeIn" />
+</div>
 
 <div align="center">
 
@@ -130,6 +134,6 @@ const developer = {
 
 **Thanks for visiting! 🚀 Happy coding! 💻**
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=JustFarzz&style=for-the-badge&color=blue" alt="Profile Views"/>
 
 </div>
